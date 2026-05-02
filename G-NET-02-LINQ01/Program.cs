@@ -21,4 +21,16 @@
 //}
 #endregion
 
+#region Q3
+//var result = Source.ProductList.Select(p => new
+//{
+//    p.ProductName,
+//    p.UnitPrice
+//}).OrderBy(p => p.UnitPrice);
+
+//foreach (var item in result)
+//{
+//    Console.WriteLine(item);
+//}
+#endregion
 

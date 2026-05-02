@@ -127,3 +127,19 @@
 
 #endregion
 
+#region Q11
+
+//var result = Source.ProductList.Select((p, i) => new
+//{
+//    Position = i + 1,
+//    p.ProductName
+
+//});
+
+//foreach (var item in result)
+//{
+//    Console.WriteLine(item);
+//}
+
+#endregion
+

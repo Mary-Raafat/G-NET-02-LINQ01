@@ -143,3 +143,26 @@
 
 #endregion
 
+#region Q12
+//String[] Arr = { "aPPLE", "AbAcUs", "bRaNcH", "BlUeBeRrY", "ClOvEr", "cHeRry" };
+//var result = Arr.OrderBy(a => a.Length).ThenBy(word => word, StringComparer.OrdinalIgnoreCase);
+
+//foreach (var item in result)
+//{
+//    Console.WriteLine(item);
+//}
+
+#endregion
+
+#region Q13
+
+//string[] digits = { "zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine" };
+//var result = digits.Where(d => d[1]=='i').Reverse();
+// foreach (var d in result)
+//{
+//    Console.WriteLine(d);
+//}
+
+
+
+#endregion

@@ -34,3 +34,13 @@
 //}
 #endregion
 
+#region Q4
+//var result = Source.ProductList.Where(p => p.UnitPrice >= 10 && p.UnitPrice <= 30);
+
+//foreach (var item in result)
+//{
+//    Console.WriteLine(item);
+//}
+
+
+#endregion

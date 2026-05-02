@@ -73,4 +73,13 @@
 
 #endregion
 
+#region Q7
+//var result = Source.ProductList.Select((p, i) => $"{i + 1}.{p.ProductName}");
+//foreach (var item in result)
+//{
+//    Console.WriteLine(item);
+//}
+
+#endregion
+
 

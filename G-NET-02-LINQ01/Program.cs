@@ -12,4 +12,13 @@
 //}
 #endregion
 
+#region Q2
+//var result=Source.ProductList.Select(p=>p.ProductName).ToList();
+
+//foreach (var item in result)
+//{
+//    Console.WriteLine(item);
+//}
+#endregion
+
 

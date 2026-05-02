@@ -82,4 +82,14 @@
 
 #endregion
 
+#region Q8
+
+//var result = Source.ProductList.OrderBy(p => p.Category).ThenByDescending(p => p.UnitPrice);
+
+//foreach (var item in result)
+//{
+//    Console.WriteLine(item);
+//}
+
+#endregion
 

@@ -108,3 +108,22 @@
 
 #endregion
 
+#region Q10
+
+//var result = from c in Source.CustomerList
+//             from o in c.Orders
+//             where o.OrderDate.Year >= 1997
+//             select new
+//             {
+//                 c.CustomerID,
+//                 o.OrderDate
+//             }
+//           ;
+//foreach (var item in result)
+//{
+//    Console.WriteLine(item);
+//}
+
+
+#endregion
+

@@ -93,3 +93,18 @@
 
 #endregion
 
+#region Q9
+
+//var result = Source.ProductList.Where(p => p.Category == "Beverages").OrderByDescending(p => p.UnitsInStock).Select(p => new
+//{
+//    name = p.ProductName,
+//    stock = p.UnitsInStock
+//});
+
+//foreach (var item in result)
+//{
+//    Console.WriteLine(item);
+//}
+
+#endregion
+
